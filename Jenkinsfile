@@ -4,7 +4,7 @@ pipeline {
     //项目名
      project_name='orange'
     //仓库地址
-     github='https://github.com/tomcat-ll/lizi.git'
+     github='https://github.com/tomcat-ll/orange.git'
     //jenkins远程服务器
      server_name='103_server'
     sever_port = '10000'}
